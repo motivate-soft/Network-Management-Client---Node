@@ -13,7 +13,7 @@
   "license": "UNLICENSED",
   "dependencies": {
     "google-protobuf": "^3.7.0-rc.3",
-    "grpc": "^1.18.0",
+    "grpc": "^1.24.9",
     "ipaddr.js": "^1.9.0",
     "systeminformation": "^4.0.11",
     "validator": "^11.1.0",
